@@ -29,7 +29,7 @@ public class CreateStudentRunner {
 		try {
 			//Create the student Object
 			
-			Student rajat =  new Student("Garima", "Gupta", "garima.gupta16@gmail.com");
+			Student rajat =  new Student("Rajat", "Gupta", "rajatgupta828@gmail.com");
 			
 			// Start the transaction
 			
